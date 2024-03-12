@@ -20,7 +20,7 @@ I decided to not use lambda function.
 - Data Structure and Logic: Implementing the data structure for the game board and the game logic itself seemed to be one of the initial challenges. Ensuring that the player's position, box positions, and storage locations are accurately represented and updated was a key issue.
 - Loading images and textures: Loading and displaying images and textures in the game was another recurring challenge. Handling image loading, texture management, and displaying sprites with the apporpriate textures required multiple iterations to get right.
 - Refactoring and redundancy: refactoring the code to eliminate redundancy and ensure that it adheres to best practices was an ongoing process. This included addressing issues realted to texture loading and using the appropriate data structures.
-- Missing "1 A box that is already in a storage location" feature. I can't figure out how to do it. And I assume test case Missing symbol and TestSwap are to test that feature. So I'm not able to write these 2 test cases as well.
+- Missing "1 A box that is already in a storage location" feature. This could be done with a more complicated approach.
 
 ### Extra Credit
 - Player changes direction while moving
